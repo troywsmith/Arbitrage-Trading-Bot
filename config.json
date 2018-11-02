@@ -2,14 +2,14 @@
   "exchange": {
       "exchangeA": {
           "exchange": "bittrex",
-          "keyFile": "keys/bittrex.key",
+          "keyFile": "bittrex.key",
           "tickerPair": "BTC-ETH",
           "tickerA": "BTC",
           "tickerB": "ETH"
       },
       "exchangeB": {
-          "exchange": "bitstamp",
-          "keyFile": "keys/bitstamp.key",
+          "exchange": "kraken",
+          "keyFile": "kraken.key",
           "tickerPair": "ethbtc",
           "tickerA": "btc",
           "tickerB": "eth"
